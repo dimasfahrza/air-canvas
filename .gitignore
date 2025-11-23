@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+
+# MediaPipe model file (Include this only if the file size is very large and you prefer not to commit it)
+# hand_landmarker.task 
+# If the model is small, it's fine to keep it; if it's over ~50MB, consider removing the leading '#'
+# and instead providing a link for users to download it in the README.
