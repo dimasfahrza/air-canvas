@@ -1,0 +1,8 @@
+# Core dependencies inferred from the project code (OpenCV, MediaPipe, PyQt5)
+opencv-python
+mediapipe
+PyQt5
+numpy
+
+# You may also need ipykernel if running as a notebook
+ipykernel
